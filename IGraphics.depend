@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1562575747 source:e:\myigraphics\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1562575747 e:\myigraphics\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562575748 e:\myigraphics\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562575748 e:\myigraphics\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562575747 source:e:\myigraphics\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1562611268 source:e:\myigraphics\igraphics-master\test.cpp
+	"iGraphics.h"
+	<bits/stdc++.h>
+
+1562682126 source:e:\myigraphics\igraphics-master\cardemo.cpp
+	"iGraphics.h"
+
+1563724252 source:e:\myigraphics\igraphics-master\solar_sys.cpp
+	"iGraphics.h"
+
+1563632789 source:e:\myigraphics\igraphics-master\slice_master.cpp
+	"iGraphics.h"
+	<bits/stdc++.h>
+
+1566111400 source:e:\myigraphics\slice master\slice_master.cpp
+	"iGraphics.h"
+	<bits/stdc++.h>
+
+1563087260 e:\myigraphics\slice master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562575748 e:\myigraphics\slice master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562575748 e:\myigraphics\slice master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568126708 source:e:\myigraphics\fruit ninja\fruit ninja.cpp
+	"iGraphics.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1563087260 e:\myigraphics\fruit ninja\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562575748 e:\myigraphics\fruit ninja\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562575748 e:\myigraphics\fruit ninja\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568434523 source:e:\fruit ninja\fruit ninja.cpp
+	"iGraphics.h"
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1563087260 e:\fruit ninja\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562575750 e:\fruit ninja\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562575750 e:\fruit ninja\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
